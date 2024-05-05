@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Print all duplicate file from given file containing file paths
+Print all duplicate files from given file containing file paths
 It works with files that are the same but having different names.
 
 This program was used to work with linux shell promt. 
